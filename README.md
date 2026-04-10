@@ -1,7 +1,7 @@
-#Github Prototype Repo
+# Github Prototype Repo
 This is a trial run of my use of and working with Github
 
 This is a new line
 
-**About the Project**
-Some description
+# About the Project
+**Some description**
